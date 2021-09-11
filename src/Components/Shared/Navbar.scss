@@ -1,0 +1,23 @@
+#Right-navbar a{
+    
+ 
+    text-decoration: none!important;
+   
+    color: aliceblue;
+    justify-content:center;
+  
+    font-weight: 700;
+    min-height: 80px;
+    transition-duration: 500ms;
+    
+}
+
+.dropdown-toggle::after {
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+}
+
+
